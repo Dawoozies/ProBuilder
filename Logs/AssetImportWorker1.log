@@ -184,3 +184,48 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 24796.781528 seconds.
+  path: Assets/Materials/TW_Stylized Stone_02_Ambient occlusion.png
+  artifactKey: Guid(a4541249b277ebf4aaafd2ce2909dc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TW_Stylized Stone_02_Ambient occlusion.png using Guid(a4541249b277ebf4aaafd2ce2909dc5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c37ea0211b809d87b72f412ef2cbda3') in 0.094613 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Materials/TW_Stylized Stone_02_Normal.png
+  artifactKey: Guid(27bd8f2d36aec7b478e7107df9274a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TW_Stylized Stone_02_Normal.png using Guid(27bd8f2d36aec7b478e7107df9274a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b5471bb90983fc33b9c70f35b3d380') in 0.024703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Materials/TW_Stylized Stone_02_Roughness.png
+  artifactKey: Guid(bf8edc4bdab46cb4a9e6d55ab41519b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TW_Stylized Stone_02_Roughness.png using Guid(bf8edc4bdab46cb4a9e6d55ab41519b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f924a6adb10d4862456b904051542b21') in 0.025095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Materials/TW_Stylized Stone_02_BaseColor.png
+  artifactKey: Guid(f21803e69389e784b9728ac46023a905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TW_Stylized Stone_02_BaseColor.png using Guid(f21803e69389e784b9728ac46023a905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de1516d3309f9c3c6d1939726fd7aac') in 0.023364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Materials/TW_Stylized Stone_02_Height.png
+  artifactKey: Guid(42c478d0d6290fa4eae770ecc5f0343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/TW_Stylized Stone_02_Height.png using Guid(42c478d0d6290fa4eae770ecc5f0343d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7575f49e66bfa8044e94e583341248') in 0.023394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
